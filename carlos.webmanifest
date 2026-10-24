@@ -1,0 +1,22 @@
+{
+ "name": "Plan de Carlos",
+ "short_name": "Plan Carlos",
+ "start_url": "./carlos.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F3F6F4",
+ "theme_color": "#F3F6F4",
+ "lang": "es",
+ "icons": [
+  {
+   "src": "icon-carlos-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-carlos-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
