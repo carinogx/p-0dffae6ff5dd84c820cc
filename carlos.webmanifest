@@ -1,6 +1,6 @@
 {
- "name": "Plan de Carlos",
- "short_name": "Plan Carlos",
+ "name": "Proyecto transformación",
+ "short_name": "Proyecto transformación",
  "start_url": "./carlos.html",
  "scope": "./",
  "display": "standalone",
